@@ -1,0 +1,58 @@
+html {
+body {
+    font-family: Arial, sans-serif;
+    background-color: #484848;
+    color: #ffffff;
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+#currentTime {
+    
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.currentTimeContainer {
+    padding: 10px;
+    text-align: center;
+    
+    
+    
+
+    
+}
+.mainContainer {
+    width: 98.5vw;
+    border: #ffffff 5px solid;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.cell {
+    padding: 5px;
+    border-bottom: 1px solid #4e4e4e;
+    text-align: center;
+    background-color: #333333;
+    
+}
+.center-container {
+    width: 100%;
+    border-collapse: collapse;
+    
+
+}
+.current-activity-description {
+    padding: 2px; 
+}
+.activity-time {
+    font-weight: bold;
+    color: #ffffff;
+    padding
+
+}
