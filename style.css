@@ -55,3 +55,8 @@ body {
     padding: 5px;
 
 }
+#schedule-table {
+    
+    border-collapse: collapse;
+    margin: 0 auto;
+}
