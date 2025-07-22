@@ -1,5 +1,9 @@
-html{
-    margin-right: calc(100vw - 100%) 
+html,body {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+
 }
 body {
     font-family: Arial, sans-serif;
@@ -21,21 +25,14 @@ body {
     
 }
 .currentTimeContainer {
-    padding: 10px;
-    text-align: center;
-    
-    
-    
-
-    
+    text-align: center; 
 }
 .mainContainer {
-    width: 98vw;
-    border: #ffffff 5px solid;
-    border-radius: 10px;
+    width: 100vw;
+    background-color: rgb(59, 59, 59);
     align-items: center;
     text-align: center;
-    margin-bottom: 2vw;
+    margin-bottom: 3vw;
     
     
 }
